@@ -3,6 +3,8 @@
 This is a quick simple program to export OpenProject wiki pages to markdown files.
 It parses the main page to list all wiki pages and then fetches each page to save it as a markdown file.
 
+Bulk export is currently not available in OpenProject and the API does not really support Wiki Pages.
+
 Tested with OpenProject 15.5.0
 
 ## Requirements
