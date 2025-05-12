@@ -1,0 +1,8 @@
+cookie
+output/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
